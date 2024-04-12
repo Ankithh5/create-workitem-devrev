@@ -51,6 +51,8 @@ devrev snap_in_version create-one --path <template path> --create-package
 ```
 devrev snap_in draft
 ```
+This code seems to be proper but whenput into work it keeps on creating clone work item evrey 5 to 10 sec
+
 4. Update the snap_in
 ```
 devrev snap_in update
